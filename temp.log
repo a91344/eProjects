@@ -1,0 +1,19 @@
+ffmpeg version git-2020-05-28-c0f01ea Copyright (c) 2000-2020 the FFmpeg developers
+  built with gcc 9.3.1 (GCC) 20200523
+  configuration: --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --disable-w32threads --enable-libmfx --enable-ffnvcodec --enable-cuda-llvm --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt --enable-amf
+  libavutil      56. 49.100 / 56. 49.100
+  libavcodec     58. 89.100 / 58. 89.100
+  libavformat    58. 43.100 / 58. 43.100
+  libavdevice    58.  9.103 / 58.  9.103
+  libavfilter     7. 83.100 /  7. 83.100
+  libswscale      5.  6.101 /  5.  6.101
+  libswresample   3.  6.100 /  3.  6.100
+  libpostproc    55.  6.100 / 55.  6.100
+[mpegts @ 000002df373ebe40] start time for stream 2 is not set in estimate_timings_from_pts
+Input #0, mpegts, from 'H:\Downloads\Video\2 Cosplay Traps Fuck in the Bathtub - Pornhub.com.ts':
+  Duration: 00:12:11.10, start: 0.101000, bitrate: 747 kb/s
+  Program 1 
+    Stream #0:0[0x100]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(progressive), 854x480 [SAR 1280:1281 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x101]: Audio: aac (LC) ([15][0][0][0] / 0x000F), 44100 Hz, stereo, fltp, 125 kb/s
+    Stream #0:2[0x102]: Data: timed_id3 (ID3  / 0x20334449)
+At least one output file must be specified
